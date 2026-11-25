@@ -1,0 +1,44 @@
+{
+  "game": "Virtua Racing",
+  "wikidata": "Q1849822",
+  "original": [
+    {
+      "region": "World",
+      "revision": "MAME: vr"
+    }
+  ],
+  "system": "Arcade",
+  "type": "recomp",
+  "status": "released",
+  "targets": [
+    "Wii"
+  ],
+  "toolchain": "WiiRevs",
+  "project": "Virtua Racing for Wii",
+  "approach": "Sega Model 1 NEC V60 program and TGP geometry programs statically translated to C; the Model 1 renderer and sound board recreated on the Wii",
+  "notes": "Runs natively on a real Wii, launched with the Homebrew Channel. Sideways Wii Remote with tilt steering, Classic Controller and GameCube controller; rumble; 480p.",
+  "tags": [
+    "sega",
+    "racing",
+    "wii"
+  ],
+  "maintainers": [
+    {
+      "name": "WiiRevs",
+      "link": "https://wiirevs.com"
+    }
+  ],
+  "links": [
+    {
+      "label": "WiiRevs",
+      "url": "https://wiirevs.com"
+    }
+  ],
+  "launchers": [
+    {
+      "path": "virtuaracing.zip",
+      "in": "release",
+      "format": "zip"
+    }
+  ]
+}
