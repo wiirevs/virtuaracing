@@ -19,6 +19,8 @@ WiiRevs doesn't include or link to any game ROMs. You need the game's ROM files,
 3. Copy your `vr` ROM files into `sd:/wiirevs/virtuaracing/`, and `epr-14869.25` into `sd:/wiirevs/model1io/`.
 4. Start Virtua Racing from the Homebrew Channel.
 
+No room on the card? Both folders can go on a USB drive instead, as `usb1:/wiirevs/virtuaracing/` and `usb1:/wiirevs/model1io/` (the app stays on the SD card). When both have the game, the SD card's is used.
+
 The game checks its files when it starts and says which are missing.
 
 ## Controls
